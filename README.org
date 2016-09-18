@@ -1,0 +1,13 @@
+#+TITLE: Sailing
+#+SUBTITLE: A Simple Animation in Racket
+#+OPTIONS: num:nil ^:nil toc:nil
+#+AUTHOR: Tuirgin
+
+This is a simple little animation inspired by the rocket and UFO animations in
+[[http://www.ccs.neu.edu/home/matthias/HtDP2e/Draft/part_prologue.html#(counter._(figure._fig~3apicture-of-rocket..v6))][HtDP2e]] and [[http://realmofracket.com/][Realm of Racket]].
+
+To run, clone and ~cd~ into the repo then call:
+
+#+BEGIN_SRC shell
+  $> gracket ./sailing.rkt
+#+END_SRC
